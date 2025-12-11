@@ -1,4 +1,6 @@
-# **Terraform is an Infrastructure as Code (IaC) tool that lets you create cloud resources (VPCs, subnets, EC2, load balancers, etc.) using simple configuration files instead of clicking around in the AWS console.**
+# Terraform
+
+Terraform is an Infrastructure as Code (IaC) tool that lets you create cloud resources (VPCs, subnets, EC2, load balancers, etc.) using simple configuration files instead of clicking around in the AWS console.
 
 This repository houses all my Terraform projects
 
