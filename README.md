@@ -31,4 +31,7 @@ This repository houses all my Terraform projects
 - C:\Program Files\Terraform\
 - Click OK until all windows close.
 
-
+5. Verify Installation
+- Open Git Bash or PowerShell:
+- Type in "terraform -version"
+- You should see the version printed.
