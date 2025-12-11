@@ -1,5 +1,3 @@
-![VPC Architecture]()
+![VPC Architecture](https://raw.githubusercontent.com/github/explore/main/topics/devops/devops.png)
 
-# VPC Provisioning
-
-I designed a VPC architecture and fully provisioned it using Terraform, turning the diagram into working cloud infrastructure. The setup includes a VPC, public and private subnets, an Internet Gateway, a Route Table, and Route Table Associations.
+**# I designed a VPC architecture and fully provisioned it using Terraform, turning the diagram into working cloud infrastructure. The setup includes a VPC, public and private subnets, an Internet Gateway, a Route Table, and Route Table Associations.**
