@@ -1,3 +1,3 @@
-![VPC Architecture](https://raw.githubusercontent.com/github/explore/main/topics/devops/devops.png)
+![VPC Architecture](https://www.google.com/imgres?q=vpc&imgurl=https%3A%2F%2Fblog.1byte.com%2Fwp-content%2Fuploads%2F2023%2F01%2Fwhat-is-vpc-1024x696.png&imgrefurl=https%3A%2F%2Fblog.1byte.com%2Fguide%2Fwhat-is-vpc-in-aws%2F&docid=Sk5_vsi9Fp3q0M&tbnid=nNAXvHk5XQSuUM&vet=12ahUKEwi3v_r99LWRAxXDUUEAHQeUE_YQM3oECBMQAA..i&w=1024&h=696&hcb=2&ved=2ahUKEwi3v_r99LWRAxXDUUEAHQeUE_YQM3oECBMQAA)
 
 I designed a VPC architecture and fully provisioned it using Terraform, turning the diagram into working cloud infrastructure. The setup includes a VPC, public and private subnets, an Internet Gateway, a Route Table, and Route Table Associations.
